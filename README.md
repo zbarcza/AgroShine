@@ -25,4 +25,6 @@ We chose one of the simpliest and most robust way for creating GUI: [RShiny](htt
 - [ ] Making a demo application for the meeting (2018-01-31) (task 5) 
 
 
+## Acknowledgements
 
+The research was funded by the Szchenyi 2020 programme, the European Regional Development Fund and the Hungarian Government (GINOP-2.3.2-15-2016-00028).
